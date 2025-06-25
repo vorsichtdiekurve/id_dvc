@@ -12,6 +12,7 @@ dependencies = [
     "feature-engine",
     "jupyter",
     "mlflow",
+    "notebook>=7.4.3",
     "numpy",
     "pandas",
     "pyarrow",
